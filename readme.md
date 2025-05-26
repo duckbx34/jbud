@@ -2,12 +2,13 @@
 
 **Local, Safe & Secure Personal AI Journaling Assistant**
 
+https://github.com/user-attachments/assets/b5fa60b4-7f7b-4530-a19e-0151d0a21fde
+
 JBUD is a **completely local, privacy-first** AI-powered journaling application that runs entirely on your computer. No cloud services, no data sharing, no privacy concerns - just you and your thoughts, enhanced by AI that learns from YOUR unique experiences.
 
 Write your thoughts, reflect on your experiences, and get personalized insights based on your own journal entries - all while keeping your most personal data completely private and secure on your own machine.
 
 
-https://github.com/user-attachments/assets/b5fa60b4-7f7b-4530-a19e-0151d0a21fde
 
 
 ## ✨ Features
